@@ -1,0 +1,25 @@
+.flex-all-center{
+    display: flex;
+    background-color: black;
+    color: white;
+    align-items: center;
+    height: 10vh;
+    justify-content: center
+}
+footer{
+    display: block;
+}
+nav ul{
+    align-items: center;
+}
+.logo{
+    display: flex;
+    align-items: center;
+    /* padding-left: 40; */
+}
+nav{
+    display: flex;
+}
+.logo img{
+    padding-left: 5vw;
+}
